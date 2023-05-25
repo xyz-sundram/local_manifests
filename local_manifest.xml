@@ -18,6 +18,8 @@
 <remove-project name="bionic" />
 <project path="bionic" name="xyz-sundram/android_bionic" remote="github" revision="arrow-13.1" />
 
+<remove-project name="gcam" />
+<project path="vendor/xiaomi/gcam" name="arturo51236/vendor_xiaomi_gcam" remote="github" revision="12.1" />
 		
 	<!-- CLANG -->
   <project path="prebuilts/clang/host/linux-x86/clang-r437112b" name="arrowos-project/android_prebuilts_clang_host_linux-x86_clang-r437112b" remote="gitlab" revision="master" /> 
