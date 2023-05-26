@@ -7,7 +7,7 @@
         <remote name="clang"
           fetch="https://gitlab.com/arrowos-project" />	
 <!-- Device Trees -->
-  <project path="device/xiaomi/tulip" name="xyz-sundram/device_xiaomi_tulip" remote="github" revision="octavi-os" />
+  <project path="device/xiaomi/tulip" name="nerdsundram/device_xiaomi_tulip" remote="github" revision="octavi-os" />
    
     <!-- Vendor Trees -->
   <project path="vendor/xiaomi/tulip" name="matheucomth/vendor_xiaomi_tulip" remote="github" revision="13" />
@@ -15,7 +15,7 @@
 <project path="kernel/xiaomi/sdm660" name="matheucomth/kernel_xiaomi_sdm660" remote="github" revision="13" />
 	<!-- EXTRAS -->
 <remove-project name="bionic" />
-<project path="bionic" name="xyz-sundram/bionic" remote="github" revision="11" />
+<project path="bionic" name="nerdsundram/bionic" remote="github" revision="11" />
 		
 	<!-- CLANG -->
   <project path="prebuilts/clang/host/linux-x86/clang-r437112b" name="arrowos-project/android_prebuilts_clang_host_linux-x86_clang-r437112b" remote="gitlab" revision="master" /> 
