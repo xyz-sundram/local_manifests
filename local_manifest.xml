@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     
-     <!-- Remote -->
-<remote name="ImSurajxD"
-		   fetch="https://gitlab.com/ImSurajxD" />
-        <remote name="clang"
-          fetch="https://gitlab.com/arrowos-project" />	
 <!-- Device Trees -->
   <project path="device/xiaomi/tulip" name="nerdsundram/device_xiaomi_tulip" remote="github" revision="octavi-os" />
    
@@ -16,8 +11,3 @@
 	<!-- EXTRAS -->
 <remove-project name="bionic" />
 <project path="bionic" name="nerdsundram/bionic" remote="github" revision="11" />
-		
-	<!-- CLANG -->
-  <project path="prebuilts/clang/host/linux-x86/clang-r437112b" name="arrowos-project/android_prebuilts_clang_host_linux-x86_clang-r437112b" remote="gitlab" revision="master" /> 
-<project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="ImSurajxD" revision="master" />
-</manifest>
