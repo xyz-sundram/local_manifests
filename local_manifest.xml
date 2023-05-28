@@ -11,3 +11,4 @@
 	<!-- EXTRAS -->
 <remove-project name="bionic" />
 <project path="bionic" name="nerdsundram/bionic" remote="github" revision="11" />
+</manifest>
