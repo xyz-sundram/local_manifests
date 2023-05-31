@@ -8,7 +8,5 @@
   <project path="vendor/xiaomi/tulip" name="matheucomth/vendor_xiaomi_tulip" remote="github" revision="13" />
    <!-- Kernel Trees -->
 <project path="kernel/xiaomi/sdm660" name="matheucomth/kernel_xiaomi_sdm660" remote="github" revision="13" />
-	<!-- EXTRAS -->
-<remove-project name="bionic" />
-<project path="bionic" name="xyz-sundram/bionic" remote="github" revision="11" />
+	
 </manifest>
