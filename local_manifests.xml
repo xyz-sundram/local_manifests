@@ -10,5 +10,5 @@
 <project path="kernel/xiaomi/sdm660" name="mutixd/android_kernel_xiaomi_sdm660" remote="github" revision="13" />
    <!-- EXTRAS -->
 <remove-project name="android_bionic" />
-<project path="android_bionic" name="xyz-sundram/android_bionic-2" remote="github" revision="thirteen" />	
+<project path="android_bionic" name="xyz-sundram/android_bionic" remote="github" revision="thirteen" />	
 </manifest>
