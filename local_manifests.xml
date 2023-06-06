@@ -2,13 +2,11 @@
 <manifest>
     
 <!-- Device Trees -->
-  <project path="device/xiaomi/twolip" name="xyz-sundram/device_xiaomi_twolip" remote="github" revision="rising13" />
+  <project path="device/xiaomi/twolip" name="xyz-sundram/device_xiaomi_twolip" remote="github" revision="Cherish-A13" />
    
     <!-- Vendor Trees -->
   <project path="vendor/xiaomi/twolip" name="mutixd/vendor_xiaomi_twolip" remote="github" revision="rising13" />
    <!-- Kernel Trees -->
 <project path="kernel/xiaomi/sdm660" name="mutixd/android_kernel_xiaomi_sdm660" remote="github" revision="13" />
-   <!-- EXTRAS -->
-<remove-project name="android_bionic" />
-<project path="bionic" name="xyz-sundram/android_bionic" remote="github" revision="thirteen" />	
+ 
 </manifest>
