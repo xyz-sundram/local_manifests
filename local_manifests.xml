@@ -9,9 +9,7 @@
    <!-- Kernel Trees -->
 <project path="kernel/xiaomi/sdm660" name="mutixd/android_kernel_xiaomi_sdm660" remote="github" revision="13" />
     
-    <!-- miuicam -->
-<project path="vendor/miuicamera" name="xyz-sundram/vendor_miuicamera_tulip" remote="github" revision="main" />
-    
+
      <!-- EXTRAS -->
 <remove-project name="android_device_cherish_sepolicy" />
 <project path="device/cherish/sepolicy" name="xyz-sundram/android_device_cherish_sepolicy" remote="github" revision="tiramisu" />
