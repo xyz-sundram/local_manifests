@@ -8,6 +8,8 @@
   <project path="vendor/xiaomi/twolip" name="mutixd/vendor_xiaomi_twolip" remote="github" revision="rising13" />
    <!-- Kernel Trees -->
 <project path="kernel/xiaomi/sdm660" name="mutixd/android_kernel_xiaomi_sdm660" remote="github" revision="13" />
+    <!-- Kernel Trees -->
+<project path="vendor/MiuiCamera" name="xyz-sundram/vendor_miuicam" remote="github" revision="main" />
     
 
      <!-- EXTRAS -->
