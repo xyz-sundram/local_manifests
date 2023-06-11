@@ -8,7 +8,7 @@
 <!-- Kernel Trees -->
   <project path="kernel/xiaomi/sdm660" name="mutixd/android_kernel_xiaomi_sdm660" remote="github" revision="13" default sync-s="true" />
    
- <!-- EXTRAS -->
- <project path="vendor/MiuiCamera" name="xyz-sundram/vendor_MiuiCamera" remote="github" revision="master" />
-    
+
+
+
 </manifest>
