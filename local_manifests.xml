@@ -2,15 +2,15 @@
 <manifest>
   
 <!-- Device Trees -->
-  <project path="device/xiaomi/twolip" name="xyz-sundram/device_xiaomi_twolip" remote="github" revision="cherishOS" />
+  <project path="device/xiaomi/tulip" name="xyz-sundram/device_xiaomi_tulip" remote="github" revision="tiramisu" />
 <!-- Vendor Trees -->
-  <project path="vendor/xiaomi/twolip" name="mutixd/vendor_xiaomi_twolip" remote="github" revision="rising13" />
+  <project path="vendor/xiaomi/tulip" name="tedomi2705/vendor_xiaomi_tulip" remote="github" revision="tiramisu" />
 <!-- Kernel Trees -->
-<project path="kernel/xiaomi/sdm660" name="xyz-sundram/android_kernel_xiaomi_sdm660" remote="github" revision="13" />
-<project path="kernel/xiaomi/sdm660/KernelSU" name="mutixd/KernelSU" remote="github" revision="main" />
+<project path="kernel/xiaomi/sdm660" name="tedomi2705/kernel_xiaomi_sdm660" remote="github" revision="tiramisu" />
+<project path="prebuilts/clang/host/linux-x86/clang-prelude" name="jjpprrrr/prelude-clang" remote="gitlab" revision="master" />
   
 <!-- EXTRAS -->
-<remove-project name="android_device_cherish_sepolicy" />
-<project path="device/cherish/sepolicy" name="xyz-sundram/android_device_cherish_sepolicy" remote="github" revision="tiramisu" />
+<remove-project name="bionic" />
+<project path="bionic" name="xyz-sundram/bionic-1" remote="github" revision="xt" />
 
 </manifest>
