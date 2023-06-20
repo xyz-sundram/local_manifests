@@ -7,6 +7,7 @@
 <!-- Vendor Trees -->
   <project path="vendor/xiaomi/" name="Havoc-Devices/android_vendor_xiaomi_tulip-common" remote="github" revision="eleven" />
   <project path="vendor/miuicamera" name="Havoc-Devices/android_vendor_xiaomi_tulip-MiuiCamera" remote="github" revision="eleven" />
+  <project path="vendor/XiaomiParts" name="DHAMPOT/Vendor_XiaomiParts" remote="github" revision="4.4-kernel" />
 <!-- Kernel Trees -->
 <project path="kernel/xiaomi/sdm660" name="Havoc-Devices/android_kernel_xiaomi_tulip" remote="github" revision="eleven" />
   
