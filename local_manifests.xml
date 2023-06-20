@@ -3,7 +3,7 @@
   
 <!-- Device Trees -->
   <project path="device/xiaomi/tulip" name="xyz-sundram/android_device_xiaomi_tulip" remote="github" revision="eleven" />
-  <project path="device/xiaomi/sdm660-common" name="Havoc-Devices/android_device_xiaomi_tulip-common" remote="github" revision="eleven" />
+  <project path="device/xiaomi/sdm660-common" name="PixelPlusUI-Devices/device_xiaomi_tulip-common" remote="github" revision="11" />
 <!-- Vendor Trees -->
   <project path="vendor/xiaomi/" name="Havoc-Devices/android_vendor_xiaomi_tulip-common" remote="github" revision="eleven" />
   <project path="vendor/miuicamera" name="Havoc-Devices/android_vendor_xiaomi_tulip-MiuiCamera" remote="github" revision="eleven" />
