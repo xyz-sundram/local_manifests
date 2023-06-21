@@ -8,6 +8,6 @@
   <project path="vendor/xiaomi/tulip" name="PixelPlusUI-Devices/vendor_xiaomi_tulip" remote="github" revision="11" />
   <project path="vendor/xiaomi/sdm660-common" name="PixelPlusUI-Devices/vendor_xiaomi_tulip-common" remote="github" revision="11" />
 <!-- Kernel Trees -->
-<project path="kernel/xiaomi/tulip" name="Havoc-Devices/android_kernel_xiaomi_tulip" remote="github" revision="eleven" />
+<project path="kernel/xiaomi/tulip" name="matheucomth/kernel xiaomi_sdmó60" remote="github" revision="13" />
   
 </manifest>
