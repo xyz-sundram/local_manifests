@@ -2,7 +2,7 @@
 <manifest>
   
 <!-- Device Trees -->
-  <project path="device/xiaomi/twolip" name="xyz-sundram/device_xiaomi_twolip" remote="github" revision="cherishOS" />
+  <project path="device/xiaomi/twolip" name="xyz-sundram/device_xiaomi_twolip" remote="github" revision="CherishOS" />
 <!-- Vendor Trees -->
   <project path="vendor/xiaomi/twolip" name="xyz-sundram/vendor_xiaomi_twolip" remote="github" revision="tiramisu" />
 <!-- Kernel Trees -->
