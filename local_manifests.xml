@@ -2,9 +2,9 @@
 <manifest>
   
 <!-- Device Trees -->
-  <project path="device/xiaomi/tulip" name="xyz-sundram/device_xiaomi_tulip" remote="github" revision="CherishOS" />
+  <project path="device/xiaomi/twolip" name="xyz-sundram/device_xiaomi_twolip" remote="github" revision="CherishOS" />
 <!-- Vendor Trees -->
-  <project path="vendor/xiaomi/tulip" name="xyz-sundram/vendor_xiaomi_tulip" remote="github" revision="tiramisu" />
+  <project path="vendor/xiaomi/twolip" name="xyz-sundram/vendor_xiaomi_twolip" remote="github" revision="tiramisu" />
 <!-- Kernel Trees -->
 <project path="kernel/xiaomi/sdm660" name="xyz-sundram/android_kernel_xiaomi_sdm660" remote="github" revision="13" />
   
