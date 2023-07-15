@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  
+   <remote name="github" fetch="https://github.com" />
+   <remote name="gitlab" fetch="https://gitlab.com" />
 <!-- Device Trees -->
   <project path="device/xiaomi/tulip" name="xyz-sundram/device_xiaomi_twolip" remote="github" revision="R" />
   <project path="device/xiaomi/sdm660-common" name="xyz-sundram/device_xiaomi_tulip-common" remote="github" revision="11" />
